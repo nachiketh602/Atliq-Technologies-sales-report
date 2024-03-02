@@ -1,6 +1,6 @@
-## Atliq-Technologies-sales-report
-# The overall sales of the company is reviewed and anlyzed in the report
-# The SQL data is first imported to mysql workbench and then imported it to power bi using direct mode.
+# Atliq-Technologies-sales-report
+## The overall sales of the company is reviewed and anlyzed in the report
+## The SQL data is first imported to mysql workbench and then imported it to power bi using direct mode.
 
 ## The final report snapshots are below
 
